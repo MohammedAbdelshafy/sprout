@@ -2,13 +2,13 @@
 type: repository
 status: candidate
 owner_repo: MohammedAbdelshafy/sprout
-product_name: Sprout Task Assistant
+product_name: sprout
 source_of_truth: https://github.com/MohammedAbdelshafy/sprout
 ---
 
-# Sprout Task Assistant CONTEXT
+# sprout CONTEXT
 
-One job: explore a task-running assistant that can break work into steps, call configured tools, and check its results. Treat it as experimental until current tests and runtime show otherwise.
+One job: define and check this experimental task-assistant prototype without overstating its reliability. Treat it as experimental until current tests and runtime show otherwise.
 
 ## Inputs
 - Capabilities and caveats: [README](README.md)
