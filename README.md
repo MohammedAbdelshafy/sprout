@@ -1,8 +1,8 @@
-# 🌱 Sprout
+# Sprout Task Assistant
 
-A self-improving, multi-agent AI system that decomposes tasks and delegates to specialist agents. Sprout is an autonomous coding assistant built on a recursive agent architecture — where every action is a goal-directed delegation to a subagent.
+Sprout is an experimental coding assistant that breaks larger tasks into smaller steps, uses specialist workers where configured, and checks the results. It is a prototype: actual behavior depends on the available tools, model settings and safeguards.
 
-## Overview
+## How it works
 
 Sprout operates on a simple but powerful loop:
 
