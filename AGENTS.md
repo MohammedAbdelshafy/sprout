@@ -60,3 +60,7 @@ Tools use `sprout-internal` interpreter (TypeScript executed by Bun). Never crea
 - **Test everything** — new features need tests, bug fixes need regression tests.
 - **Incremental changes** — small verified steps over large unverified leaps.
 - **Commit messages** — conventional commits (`feat:`, `fix:`, `refactor:`, `test:`, `docs:`).
+
+## ICM navigation and customer language
+
+Read [CONTEXT.md](CONTEXT.md) for the project's purpose and checks. Use **Sprout Task Assistant** in customer-facing copy, but keep the repo slug and internal identifiers stable. Describe automated behavior only to the level supported by current tests and runtime evidence.
