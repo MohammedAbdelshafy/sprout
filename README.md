@@ -1,4 +1,4 @@
-# Sprout Task Assistant
+# Sprout
 
 Sprout is an experimental coding assistant that breaks larger tasks into smaller steps, uses specialist workers where configured, and checks the results. It is a prototype: actual behavior depends on the available tools, model settings and safeguards.
 
